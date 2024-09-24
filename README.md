@@ -15,18 +15,6 @@ Getting Started
 Prerequisites
 A modern web browser (e.g., Chrome, Firefox).
 Installation
-Clone the repository:
-
-bash
-Copy code
-git clone https://github.com/yourusername/movie-seat-booking.git
-Navigate to the project directory:
-
-bash
-Copy code
-cd movie-seat-booking
-Open index.html in your web browser.
-
 Usage
 Select a movie from the dropdown list.
 Click on the seats to select or deselect them.
