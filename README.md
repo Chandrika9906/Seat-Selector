@@ -1,22 +1,21 @@
-# Seat-Selector
 Movie Seat Booking
-A simple web application for booking movie seats, allowing users to select their favorite movie and choose available seats. The app calculates the total cost based on the selected seats and movie price.
 
-Features
+A simple and interactive web application for booking movie seats online. Users can choose a movie, select available seats, and view the total booking cost dynamically. The application also stores selected seats and movie preferences using local storage for a better user experience.
 
-Movie Selection: Choose from multiple movies with varying ticket prices.
-
-Seat Selection: Click to select or deselect available seats.
-
-Price Calculation: Automatically calculates the total price based on selected seats and movie price.
-
-Persistent State: Uses local storage to remember selected seats and movie preferences.
-
-Technologies Used
-HTML: For structuring the webpage.
-CSS: For styling and layout.
-JavaScript: For interactive functionality and dynamic content.
-
-Acknowledgments
-Inspired by the need for a simple movie booking system.
-Thanks to various online resources for HTML, CSS, and JavaScript knowledge.
+🚀 Features
+🎥 Movie Selection
+Choose from multiple movies with different ticket prices.
+💺 Seat Selection
+Select or deselect available seats by clicking on them.
+❌ Occupied Seats
+Occupied seats are highlighted and cannot be selected.
+💰 Dynamic Price Calculation
+Automatically updates the total price based on selected seats and movie ticket cost.
+💾 Persistent Data Storage
+Uses browser local storage to save selected seats and selected movie even after page refresh.
+🎨 Responsive UI Design
+Clean and visually appealing user interface using HTML and CSS.
+🛠️ Technologies Used
+HTML5 – Structure of the web page
+CSS3 – Styling and layout design
+JavaScript (ES6) – Interactive functionality and DOM manipulation
